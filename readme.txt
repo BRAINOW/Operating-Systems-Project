@@ -1,0 +1,1 @@
+Para la correcta ejecución de el proyecto es necesario importar las 3 librerias de la carpeta Lib.zip
